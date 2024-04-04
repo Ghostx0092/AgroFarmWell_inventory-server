@@ -1,1 +1,1 @@
-# KhetifyInventory-Server
+# AgroFarmWellInventory-Server
